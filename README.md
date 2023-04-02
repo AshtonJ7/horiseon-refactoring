@@ -25,3 +25,11 @@ N/A
 ## License
 
 please refer to the LICENSE in the repository.
+
+
+## 🔗 Links
+https://ashtonj7.github.io/week1-refactoring-challenge
+
+## Screenshots
+
+![image](https://user-images.githubusercontent.com/62944042/229374845-69d3540f-77d4-4670-a7f1-bc1f005a184e.png)
