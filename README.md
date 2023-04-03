@@ -39,13 +39,6 @@ Accessibility is good for business, accessible sites rank higher in search engin
 
 I completed this challange by updating the code to HTML5 mark-up language and improving acessibility by adding attributes that can be read by a screen reader.
 
-## Installation
-
-N/A
-
-## Usage
-
-This is a codebase for a digital marketing agency that follows accessibility standards. This website  has been optimized for search engines.
 
 ## Credits
 
@@ -53,7 +46,7 @@ N/A
 
 ## License
 
-please refer to the LICENSE in the repository.
+N/A
 
 
 ## 🔗 Links
