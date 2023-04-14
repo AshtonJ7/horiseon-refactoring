@@ -1,4 +1,4 @@
-# Week-1-Refactoring-Challenge
+# Horiseon Refactoring
 
 Refactor existing code (improving it without changing what it does) to adhere to current HTML5 standards and improve accessibility.
 
