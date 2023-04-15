@@ -1,6 +1,33 @@
-# Week 1 Refactoring Challenge
+# Horiseon Refactoring
 
 Refactor existing code (improving it without changing what it does) to adhere to current HTML5 standards and improve accessibility.
+
+
+## User Story
+
+```
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+```
+
+
+## Acceptance Criteria
+
+
+```
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the icon and image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
+```
 
 # Description
 
@@ -10,13 +37,8 @@ The main aim for this project is web accessibility. It ensures that people with 
 
 Accessibility is good for business, accessible sites rank higher in search engines like Google. It also helps companies avoid litigation, which might arise if people with disabilities can't access a website.
 
-## Installation
+I completed this challange by updating the code to HTML5 mark-up language and improving acessibility by adding attributes that can be read by a screen reader.
 
-N/A
-
-## Usage
-
-This is a codebase for a digital marketing agency that follows accessibility standards. This website  has been optimized for search engines.
 
 ## Credits
 
@@ -24,7 +46,7 @@ N/A
 
 ## License
 
-please refer to the LICENSE in the repository.
+N/A
 
 
 ## 🔗 Links
